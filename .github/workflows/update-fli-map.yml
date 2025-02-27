@@ -6,6 +6,7 @@ on:
     paths:
       - "Value_Alignment/**"
       - "convert_from_directories.py"
+      - "convert_meta.py"
       - "meta.json"
   workflow_dispatch:
 
@@ -30,10 +31,11 @@ jobs:
         with:
           python-version: "3.12.4"
 
-      - name: Run conversion script
+      - name: Run conversion scripts
         working-directory: source-repo
         run: |
           python convert_from_directories.py
+          python convert_meta.py
 
       - name: Copy files to target repository
         run: |
@@ -45,7 +47,7 @@ jobs:
           cp source-repo/fli-map.json target-repo/static/trees/fli-map.json
 
           # Copy the meta.json file
-          cp source-repo/meta.json target-repo/src/lib/tree_settings/fli-map.json
+          cp source-repo/meta-converted.json target-repo/src/lib/tree_settings/fli-map.json
 
       - name: Commit and push changes
         working-directory: target-repo
