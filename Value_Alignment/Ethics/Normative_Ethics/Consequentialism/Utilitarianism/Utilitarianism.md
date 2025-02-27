@@ -1,0 +1,9 @@
+### Mini Description
+
+Holds that actions which maximize utility, usually being happiness or wellbeing, are ethical and the proper course of action. 
+
+### Description
+
+Utilitarianism is generally an attractive normative ethical theory in the context of AI because it turns ethics into a simple calculation: add up all the happiness in the world and subtract out all of the suffering and choose the actions which produce the highest net positive impacts on the world. While this appears to be an attractive and simple solution, there are open questions regarding the epistemic and computational feasibility of such a normative framework. Given that there are many possible forms of utilitarianism, some types, coupled with useful heuristics, probabilistic reasoning, and optimized inductive and deductive reasoning, will be more or less tractable than other forms. Furthermore, defining and effectively measuring which experiential states count as valuable and which count as unvaluable is notoriously difficult. More research is needed on the subject (Wallach 2009).
+
+In the long term, if a purely utilitarian AI ethics is achieved then we will need to be mindful of the urgency for AIs to explain calculated decisions in ways that are sensitive to human morality, moral psychology, and concepts. If we are unable to follow the utility calculus of an advanced AI, its ethical decisions may seem strange, foreign, and even unethical to us when they are really rational, wise, and morally benevolent. This may even moreso be the case if the causal implications of a proposed action are unclear to humans. A potential resolution to such a situation would be to develop an AI-human-repertoire where AI systems can explain to us, as a parent explains the necessity of certain decisions/actions to a child, the calculus and causal impacts in terms that we can understand.

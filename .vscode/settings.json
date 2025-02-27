@@ -1,0 +1,20 @@
+{
+  "markdownFormatter.fullWidthTurnHalfWidth": "auto",
+  "markdownFormatter.formatOpt": {
+    "indent_size": 2
+  },
+  "markdownFormatter.formatULSymbol": false,
+  "[markdown]": {
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": true,
+      "strings": true
+    },
+    "editor.snippetSuggestions": "top",
+    "editor.tabCompletion": "on",
+    "editor.acceptSuggestionOnEnter": "on",
+    "editor.defaultFormatter": "mervin.markdown-formatter"
+  }
+}

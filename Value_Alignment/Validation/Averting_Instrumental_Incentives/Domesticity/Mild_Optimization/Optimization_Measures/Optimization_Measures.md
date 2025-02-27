@@ -1,0 +1,7 @@
+### Mini Description
+
+Ways of measuring optimization and penalizing excessive optimization
+
+### Description
+
+Varied ways of measuring optimization and penalizing excessive optimization are emerging. One can regularize against excessive optimization power ([Taylor et al. 2016](https://intelligence.org/files/AlignmentMachineLearning.pdf)), learning corresponding value functions for policies in order to learn less-extreme policies that are more likely to generalize well ([Farahmand et al. 2009](http://papers.nips.cc/paper/3445-regularized-policy-iteration.pdf)), or just generally provide less optimization power ([Rabin 2010](https://www.amazon.com/Introduction-Development-Second-Steve-Rabin/dp/1584506792)). Another option is a regularizer that penalizes more intelligence than is necessary for solving a problem sufficiently, biasing toward the speed of solution and resource conservation ([Taylor et al. 2016](https://intelligence.org/files/AlignmentMachineLearning.pdf)). Penalizing or thresholding the amount of resources or time that can be used for optimization, or stopping when reaching some probabilitsic theshold of the optimum, are options ([Klyubin and Nehaniv 2005](http://homepages.herts.ac.uk/~comqdp1/publications/files/cec2005_klyubin_polani_nehaniv.pdf), [Salge et al. 2014](https://pdfs.semanticscholar.org/d01e/3414ca706eda917576d947ece811b5cbcdde.pdf)), but each has potential issues, and optimization measures themselves are an open problem ([Legg and Hutter 2007](http://dx.doi.org/10.1007/s11023-007-9079-x)).

@@ -1,0 +1,7 @@
+### Mini Description
+
+Determining the sources and modalities of artifacts from which to attempt values extraction
+
+### Description
+
+Good people are quite varied in their morality and values ([Haidt 2012](http://www.penguinrandomhouse.com/books/73535/the-righteous-mind-by-jonathan-haidt/9780307455772/)). Societal values also change over time. In order to attempt to start with reasonable recall over values, the number of types of artifacts, modalities, stakeholders, sapient species, and organizations providing value laden information might be maximized. Techniques for analyzing consistencies and synergies can then be used to improve precision ([Rossi 2016](http://drops.dagstuhl.de/opus/volltexte/2016/6187/pdf/LIPIcs-CONCUR-2016-2.pdf)). There are many philosophical concerns surrounding what sort of goals are ethical when aligning a superintelligent system, but a solution to the value learning problem will be a practical necessity regardless of which philosophical view is the correct one. The methodology used for such sourcing requires fairness and objectivity ([Greene 2016](https://projects.iq.harvard.edu/files/mcl/files/greene-driverless-dilemma-sci16.pdf)). Having a set of human operators with total control over a superintelligent system could give rise to a gigantic new moral hazard, however, by putting historically unprecedented power into the hands of a small few ([Bostrom 2014](https://global.oup.com/academic/product/superintelligence-9780199678112)).

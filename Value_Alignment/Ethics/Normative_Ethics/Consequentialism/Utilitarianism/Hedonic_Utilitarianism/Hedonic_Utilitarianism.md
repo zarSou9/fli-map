@@ -1,0 +1,11 @@
+### Mini Description
+
+Posits a hierarchy of pleasures or experiences that are to be maximized according to their corresponding value and worth. 
+
+### Description
+
+ Hedonic utilitarianism is less of a novel structural form of utilitarianism, such as two-level utilitarianism or rule utilitarianism, but is one which has the goal of such normative frameworks baked into it. This form, and others like it, can be viewed as the direct consequences of or heavily influenced by specific metaethical positions, such as views on value, the significance of joy and suffering,  and moral realism/anti-realism. In the short term, it would seem that hedonic utilitarianism doesnt have much practicality and implementability. Yet, what it is useful of considerations on this subject are the various sorts of ethical and moral intuitions they stir and bring to light.
+
+In the long-term, if superintelligence is created then we may gain access to immense power and intelligence. Such power and intelligence may allow us to optimize some large portion of the cosmic endowment, potentially hundreds of thousands of galaxies, over the life of the universe to some end (Bostrom 2014). If we are sympathetic to the view of hedonic utilitarianism then we would want to optimize this space for pleasurable experiences. One proposed solution to this is to isolate the most simple computational structures responsible for the best hedonic states and instantiate this structure throughout the cosmos using solar system upon solar system to this end. What we would end up with is some fraction of the universe tiled with contentless bliss and euphoria humming away until the heat death of everything.
+
+This raises some important questions for us: What does it mean for there to be a best hedonic state? How do we operationalize that? Is there ultimately such a thing as a best hedonic state? What is good and what is bad about a world that looks like this? How are we to ground such evaluations of such a world? What is the importance of narrative and story in conscious experience? Are hedonics alone what we want or what is good? Or do positive hedonic states need to be paired with concepts, narrative, music, action, a self, etc.? Should we violate a beings consent if attribute a high probability to some action increasing net happiness?

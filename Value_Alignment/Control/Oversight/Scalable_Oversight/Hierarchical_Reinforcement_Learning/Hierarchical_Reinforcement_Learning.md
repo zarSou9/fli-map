@@ -1,0 +1,7 @@
+### Mini Description
+
+Having a hierarchy of reinforcement learners whereby higher-level ones operate on more abstract strategies and provide synthetic reward signals to the agents below it that are operating more at the object level
+
+### Description
+
+Hierarchical reinforcement learning offers a compelling technique for scaling delegation and oversight ([Amodei et al. 2016](http://arxiv.org/abs/1606.06565)). In this approach, there is a high-level RL agent, operating on abstract strategies, receiving likely-sparse reward signal feedback from above it, and having it delegate to lower-level more object level RL agents, for which it in turn generates synthetic reward signals, with many such levels ([Dayan and Hinton 1993](https://papers.nips.cc/paper/714-feudal-reinforcement-learning.pdf), [Kulkarni et al. 2016](http://arxiv.org/abs/1604.06057)). This formulation is somewhat of a microcosm of AI safety overall, since subagents can do things that don't necessarily serve its higher-level agent's goals ([Amodei et al. 2016](http://arxiv.org/abs/1606.06565), [Leike 2016](https://jan.leike.name/publications/Nonparametric%20General%20Reinforcement%20Learning%20-%20Leike%202016.pdf)). Such a structure may prove amenable to fostering situational awareness via risk-conscious skills, which would strengthen its utility for the present task ([Mankowitz et al. 2016](https://4caf2f9f-a-62cb3a1a-s-sites.googlegroups.com/site/wildml2016/mankowitz16saricos.pdf)).

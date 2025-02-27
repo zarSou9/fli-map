@@ -1,0 +1,9 @@
+### Mini Description
+
+Refers to the ethics of potentially generating astronomical amounts of suffering into the deep future through some technological value misalignment, unforeseen consequence, failure of control, or even malevolent use case. Suffering risks, commonly referred to as s-risks, are a subclass of existential risks.
+
+### Description
+
+Most people are willing to admit that there are some things that are worse than death, such as suffering greatly for many years at a time with minimal to no relief. Given this, many view suffering risks of indefinite duration as being worse than mass extinction (x-risks). If we believe this to be the case then s-risks can be categorized as the worst of all possible known things in our universe. We should thus be mindful of them as we venture into unknown technological and ethical territory, especially in the case of AI.
+
+S-risks seem to be especially prevalent in advanced AI systems, such as superintelligence, due to the posited ability of superintelligence to rapidly copy software/generate minds, strongly optimize large spaces in arbitrary directions, and perform astronomical amounts of computations at digital timescales, rather than biological timescales (Bostrom 2014).These properties and features can generate s-risks  through sentient simulations, suffering subroutines, suffering routines, the spread of wild animals, and black swan events. (Tomasik 2017) This is highly speculative and, like other concepts mentioned here, is to say nothing of the likelihood of such things, but is brought up as a seeming logical possibility given some assumptions about consciousness and the possibility of machine superintelligence. This deserves attention as we proceed with AI in order to determine their likelihood and how we might mitigate such risks.
