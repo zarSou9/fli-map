@@ -171,9 +171,7 @@ def process_directory(dir_path, node_id, directory_map, path_to_id_map):
 
 
 def main():
-    root_path = Path(
-        "Value_Alignment"
-    )  # Assuming the root directory is named after the root node
+    root_path = Path("Value_Alignment")
 
     if not root_path.exists() or not root_path.is_dir():
         print(f"Error: Root directory '{root_path}' not found.")
@@ -188,7 +186,7 @@ def main():
         print("Error: Could not find the root node.")
         return
 
-    output_file = Path("fli-map-reconstructed.json")
+    output_file = Path("fli-map.json")
     output_file.write_text(json.dumps(root_node), encoding="utf-8")
 
     print(f"JSON structure reconstructed successfully to '{output_file}'")

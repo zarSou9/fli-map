@@ -1,0 +1,63 @@
+name: Update FLI Map
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "Value_Alignment/**"
+      - "convert_from_directories.py"
+      - "meta.json"
+  workflow_dispatch:
+
+jobs:
+  update-fli-map:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source repository
+        uses: actions/checkout@v4
+        with:
+          path: source-repo
+
+      - name: Checkout target repository
+        uses: actions/checkout@v4
+        with:
+          repository: zarSou9/ai-research-maps
+          token: ${{ secrets.TARGET_REPO_TOKEN }}
+          path: target-repo
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12.4"
+
+      - name: Run conversion script
+        working-directory: source-repo
+        run: |
+          python convert_from_directories.py
+
+      - name: Copy files to target repository
+        run: |
+          # Create directories if they don't exist
+          mkdir -p target-repo/static/trees
+          mkdir -p target-repo/src/lib/tree_settings
+
+          # Copy the generated JSON file
+          cp source-repo/fli-map.json target-repo/static/trees/fli-map.json
+
+          # Copy the meta.json file
+          cp source-repo/meta.json target-repo/src/lib/tree_settings/fli-map.json
+
+      - name: Commit and push changes
+        working-directory: target-repo
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add static/trees/fli-map.json src/lib/tree_settings/fli-map.json
+
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update FLI map files from source repository"
+            git push
+          fi
