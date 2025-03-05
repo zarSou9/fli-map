@@ -4,7 +4,20 @@ All changes made after [c6690ac](https://github.com/zarSou9/fli-map/commit/c6690
 
 ## Contributing
 
-After cloning the repository, we recommend using either [Obsidian](https://obsidian.md) or [VS Code](https://code.visualstudio.com) as your editor.
+### Getting Started
+
+1. Ensure you have [Git installed](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) on your system.
+
+2. Clone the repository:
+   
+
+```
+git clone https://github.com/zarSou9/fli-map.git
+```
+
+3. For the best editing experience, we recommend using either:
+   - [Obsidian](https://obsidian.md)
+   - [VS Code](https://code.visualstudio.com)
 
 ### Obsidian
 
