@@ -1,3 +1,5 @@
 ### Description
 
 The project of creating value-aligned AI is perhaps one of the most important things we will ever do. However, there are open and often neglected questions regarding what is exactly entailed by 'beneficial AI.' Value alignment is the project of one day creating beneficial AI and has been expanded outside of its usual technical context to reflect and model its truly interdisciplinary nature. For value-aligned AI to become a reality, we need to not only solve intelligence, but also the ends to which intelligence is aimed and the social/political context, rules, and policies in and through which this all happens. This landscape synthesizes a variety of AI safety research agendas along with other papers in AI, machine learning, ethics, governance, and AI safety, robustness, and beneficence research. It lays out what technical research threads can help us to create beneficial AI, and describes how these many topics tie together.
+
+nah
