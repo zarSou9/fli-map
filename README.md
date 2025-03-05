@@ -18,7 +18,7 @@ git clone https://github.com/zarSou9/fli-map.git
 3. For the best editing experience, we recommend using either:
    - [Obsidian](https://obsidian.md)
    - [VS Code](https://code.visualstudio.com)
-
+sd
 ### Obsidian
 
 After installing Obsidian, (if already installed, click on your vault > Manage vaults) once opened press "Open folder as vault" and select this repository.
