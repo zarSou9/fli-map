@@ -12,7 +12,7 @@ jobs:
   update-fli-map:
     runs-on: ubuntu-latest
     steps:
-      - name: Call conversion endpoint
+      - name: Call update_map endpoint
         run: |
           curl -X POST https://www.airesearchmaps.com/api/update_map \
           -H "Content-Type: application/json" \
