@@ -9,4 +9,4 @@ As human ethics often contains competing or contradicting tenets, and as there a
 ### Related Nodes
 
 - [Multiobjective Optimization](/Value_Alignment/Validation/Averting_Instrumental_Incentives/Domesticity/Mild_Optimization/Multiobjective_Optimization/Multiobjective_Optimization.md)
-- [Human Preference Aggregation](/Value_Alignment/Ethics/Descriptive_Ethics_/Human_Preference_Aggregation/Human_Preference_Aggregation.md)
+- [Human Preference Aggregation](/Value_Alignment/Ethics/Descriptive_Ethics/Human_Preference_Aggregation/Human_Preference_Aggregation.md)

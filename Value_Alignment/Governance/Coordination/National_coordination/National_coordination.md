@@ -1,6 +1,6 @@
 ### Mini Description
 
- The nation state remains a powerful unit of strategic coordination and governance. 
+The nation state remains a powerful unit of strategic coordination and governance.
 
 ### Description
 

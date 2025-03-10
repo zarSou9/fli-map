@@ -1,6 +1,6 @@
 ### Mini Description
 
-Coordination is the process of reaching a working consensus within a defined (though not static) group or category. It refers to the structures through which governance occurs. 
+Coordination is the process of reaching a working consensus within a defined (though not static) group or category. It refers to the structures through which governance occurs.
 
 ### Description
 

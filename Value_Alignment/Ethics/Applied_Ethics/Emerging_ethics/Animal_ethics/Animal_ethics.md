@@ -1,6 +1,6 @@
 ### Mini Description
 
- studies how non-human animals ought to be treated. 
+studies how non-human animals ought to be treated.
 
 ### Description
 

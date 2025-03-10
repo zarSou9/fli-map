@@ -1,6 +1,6 @@
 ### Mini Description
 
- A republic in Northern Europe with a population of approximately 5.5 million.
+A republic in Northern Europe with a population of approximately 5.5 million.
 
 ### Description
 

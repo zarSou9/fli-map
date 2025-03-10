@@ -1,6 +1,6 @@
 ### Mini Description
 
-Judges the morality of an action or situation based on rights, duties, laws, and obligations persons possess and hold to one another and society at large. 
+Judges the morality of an action or situation based on rights, duties, laws, and obligations persons possess and hold to one another and society at large.
 
 ### Description
 

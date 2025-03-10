@@ -1,6 +1,6 @@
 ### Mini Description
 
-Studies ethics with regards to public officials, their actions, and the laws and policies they introduce. 
+Studies ethics with regards to public officials, their actions, and the laws and policies they introduce.
 
 ### Description
 

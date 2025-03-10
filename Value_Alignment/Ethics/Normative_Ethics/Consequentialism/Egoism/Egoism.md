@@ -1,6 +1,6 @@
 ### Mini Description
 
-Holds that maximizing the good for ones self should play a primary or the only role when undertaking actions. 
+Holds that maximizing the good for ones self should play a primary or the only role when undertaking actions.
 
 ### Description
 

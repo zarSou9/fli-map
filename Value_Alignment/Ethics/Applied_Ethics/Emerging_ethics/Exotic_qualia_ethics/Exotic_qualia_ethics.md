@@ -1,6 +1,6 @@
 ### Mini Description
 
-Studies how the moral status of feelings, emotions, and experiences foreign to human consciousness might be evaluated. 
+Studies how the moral status of feelings, emotions, and experiences foreign to human consciousness might be evaluated.
 
 ### Description
 

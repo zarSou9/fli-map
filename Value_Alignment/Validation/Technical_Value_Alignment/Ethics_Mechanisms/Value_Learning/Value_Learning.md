@@ -10,5 +10,5 @@ It has been argued that it's quite plausible that researchers and developers wil
 
 - [Value Interrogation](/Value_Alignment/Validation/Technical_Value_Alignment/Ethics_Mechanisms/Value_Learning/Value_Elicitation/Value_Interrogation/Value_Interrogation.md)
 - [Oversight](/Value_Alignment/Control/Oversight/Oversight.md)
-- [Human Preference Aggregation](/Value_Alignment/Ethics/Descriptive_Ethics_/Human_Preference_Aggregation/Human_Preference_Aggregation.md)
-- [Ontological Value](/Value_Alignment/Ethics/Metaethics/Ethical_uncertainty/Metaethical_uncertainty_/Ontological_ethical_effects/Ontological_Value/Ontological_Value.md)
+- [Human Preference Aggregation](/Value_Alignment/Ethics/Descriptive_Ethics/Human_Preference_Aggregation/Human_Preference_Aggregation.md)
+- [Ontological Value](/Value_Alignment/Ethics/Metaethics/Ethical_uncertainty/Metaethical_uncertainty/Ontological_ethical_effects/Ontological_Value/Ontological_Value.md)

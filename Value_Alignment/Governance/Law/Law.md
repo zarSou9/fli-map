@@ -1,6 +1,6 @@
 ### Mini Description
 
-Laws are the systems of rules that regulate our actions. Unlike other forms of governance and soft power, laws usually have enforceable penalties for those who do not follow them. 
+Laws are the systems of rules that regulate our actions. Unlike other forms of governance and soft power, laws usually have enforceable penalties for those who do not follow them.
 
 ### Description
 

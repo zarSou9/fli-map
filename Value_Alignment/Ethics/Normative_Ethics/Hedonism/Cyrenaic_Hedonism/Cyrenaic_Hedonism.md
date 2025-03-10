@@ -1,6 +1,6 @@
 ### Mini Description
 
- is an indulgent form of hedonism that supports reiterating more basic and primal pleasures as often as possible, like food, sex, and sleep. It focuses on immediate gratification without much care for the future. 
+is an indulgent form of hedonism that supports reiterating more basic and primal pleasures as often as possible, like food, sex, and sleep. It focuses on immediate gratification without much care for the future.
 
 ### Description
 

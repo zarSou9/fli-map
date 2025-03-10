@@ -1,6 +1,6 @@
 ### Mini Description
 
-Seeks to understand morality as a human phenomenon at the level of the mind and/or brain. It looks to answer questions about moral development, motivation, reasoning, and character. 
+Seeks to understand morality as a human phenomenon at the level of the mind and/or brain. It looks to answer questions about moral development, motivation, reasoning, and character.
 
 ### Description
 

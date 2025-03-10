@@ -1,6 +1,6 @@
 ### Mini Description
 
- assesses the moral worth of an action based on how much it maximizes the welfare and good of the state in relation to other possible actions. 
+assesses the moral worth of an action based on how much it maximizes the welfare and good of the state in relation to other possible actions.
 
 ### Description
 

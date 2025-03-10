@@ -8,4 +8,4 @@ As AI becomes more powerful across more domains, our ability to augment and chan
 
 ### Related Nodes
 
-- [Human augmentation](/Value_Alignment/Governance/Policy_/Applied_policy_areas/Human_augmentation/Human_augmentation.md)
+- [Human augmentation](/Value_Alignment/Governance/Policy/Applied_policy_areas/Human_augmentation/Human_augmentation.md)

@@ -1,6 +1,6 @@
 ### Mini Description
 
-Holds that morality should be based on agreements and contracts made between consenting individuals. 
+Holds that morality should be based on agreements and contracts made between consenting individuals.
 
 ### Description
 

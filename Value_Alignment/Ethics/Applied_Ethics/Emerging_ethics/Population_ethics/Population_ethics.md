@@ -1,6 +1,6 @@
 ### Mini Description
 
-Studies the ethics of resource limited populations spanning across space and time.  
+Studies the ethics of resource limited populations spanning across space and time.
 
 ### Description
 

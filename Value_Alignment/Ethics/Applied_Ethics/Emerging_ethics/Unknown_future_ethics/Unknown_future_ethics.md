@@ -1,6 +1,6 @@
 ### Mini Description
 
-Seeks to prepare for technological and scientific discovery that will likely bring us to a whole host of new and perhaps exotic ethical situations and dilemmas. 
+Seeks to prepare for technological and scientific discovery that will likely bring us to a whole host of new and perhaps exotic ethical situations and dilemmas.
 
 ### Description
 

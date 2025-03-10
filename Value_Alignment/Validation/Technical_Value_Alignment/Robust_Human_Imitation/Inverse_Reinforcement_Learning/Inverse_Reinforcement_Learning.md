@@ -10,5 +10,5 @@ A system can infer the preferences of another rational, or nearly rational, acto
 
 - [Narrow Value Learning](/Value_Alignment/Validation/Technical_Value_Alignment/Robust_Human_Imitation/Narrow_Value_Learning/Narrow_Value_Learning.md)
 - [Human Judgement Learner](/Value_Alignment/Control/Oversight/Scalable_Oversight/Human_Judgement_Learner/Human_Judgement_Learner.md)
-- [Etiquette](/Value_Alignment/Ethics/Descriptive_Ethics_/Etiquette/Etiquette.md)
-- [Observed choices](/Value_Alignment/Ethics/Descriptive_Ethics_/Observed_choices/Observed_choices.md)
+- [Etiquette](/Value_Alignment/Ethics/Descriptive_Ethics/Etiquette/Etiquette.md)
+- [Observed choices](/Value_Alignment/Ethics/Descriptive_Ethics/Observed_choices/Observed_choices.md)

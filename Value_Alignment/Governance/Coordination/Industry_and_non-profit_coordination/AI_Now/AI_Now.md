@@ -1,6 +1,6 @@
 ### Mini Description
 
-The AI Now Institute is a non-profit organization housed at New York University, which produces interdisciplinary research on the social implications of artificial intelligence. 
+The AI Now Institute is a non-profit organization housed at New York University, which produces interdisciplinary research on the social implications of artificial intelligence.
 
 ### Description
 

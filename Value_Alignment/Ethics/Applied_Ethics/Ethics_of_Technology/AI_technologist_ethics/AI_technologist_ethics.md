@@ -1,6 +1,6 @@
 ### Mini Description
 
-Studies ethics with regards to the creation and implementation of AI in the world. 
+Studies ethics with regards to the creation and implementation of AI in the world.
 
 ### Description
 

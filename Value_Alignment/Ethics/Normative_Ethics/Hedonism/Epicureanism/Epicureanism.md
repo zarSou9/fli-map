@@ -1,6 +1,6 @@
 ### Mini Description
 
- rejects the indulgent nature of the Cyrenaics and can be viewed as a more refined version of hedonism. Epicureanism holds that the greatest wellbeing and happiness can be developed through moderation, caution, and a mindfulness directed toward future consequences of actions in the present moment. 
+rejects the indulgent nature of the Cyrenaics and can be viewed as a more refined version of hedonism. Epicureanism holds that the greatest wellbeing and happiness can be developed through moderation, caution, and a mindfulness directed toward future consequences of actions in the present moment.
 
 ### Description
 

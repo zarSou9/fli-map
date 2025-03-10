@@ -1,6 +1,6 @@
 ### Mini Description
 
-Seeks to understand how to allocate probabilistic truth or rightness values to different normative moral theories given imperfect knowledge about the space. 
+Seeks to understand how to allocate probabilistic truth or rightness values to different normative moral theories given imperfect knowledge about the space.
 
 ### Description
 

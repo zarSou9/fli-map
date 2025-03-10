@@ -1,6 +1,6 @@
 ### Mini Description
 
- studies the ethical implications of there potentially being an infinite number of universe with an infinite number of other sentient beings. 
+studies the ethical implications of there potentially being an infinite number of universe with an infinite number of other sentient beings.
 
 ### Description
 

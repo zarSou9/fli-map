@@ -1,6 +1,6 @@
 ### Mini Description
 
-An intergovernmental organization tasked to promote international cooperation and to create and maintain international order. 
+An intergovernmental organization tasked to promote international cooperation and to create and maintain international order.
 
 ### Description
 

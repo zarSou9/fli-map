@@ -1,6 +1,6 @@
 ### Mini Description
 
-Focuses on examining the morality of a given act through the context in which it is located and places an emphasis on the cultivation of unconditional love. 
+Focuses on examining the morality of a given act through the context in which it is located and places an emphasis on the cultivation of unconditional love.
 
 ### Description
 

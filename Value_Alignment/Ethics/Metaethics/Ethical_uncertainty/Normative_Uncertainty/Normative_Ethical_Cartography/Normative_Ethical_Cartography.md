@@ -1,6 +1,6 @@
 ### Mini Description
 
- seeks to explore the space of all possible normative ethical theories. 
+seeks to explore the space of all possible normative ethical theories.
 
 ### Description
 

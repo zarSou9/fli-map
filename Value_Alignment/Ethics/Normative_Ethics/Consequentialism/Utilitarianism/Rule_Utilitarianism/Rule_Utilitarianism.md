@@ -1,6 +1,6 @@
 ### Mini Description
 
-Holds that the appropriate action is that which embodies and works to actualize some rule which is conducive to the greatest good. 
+Holds that the appropriate action is that which embodies and works to actualize some rule which is conducive to the greatest good.
 
 ### Description
 

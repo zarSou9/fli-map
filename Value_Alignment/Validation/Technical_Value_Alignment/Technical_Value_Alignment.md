@@ -13,4 +13,4 @@ Researchers expect that highly intelligent agents would be able to pursue arbitr
 - [Ethics](/Value_Alignment/Ethics/Ethics.md)
 - [Informed Oversight](/Value_Alignment/Control/Oversight/Scalable_Oversight/Informed_Oversight/Informed_Oversight.md)
 	- Reason: From Technical Value Alignment also see Informed Oversight as further research in that control problem may change the field's understanding of the nature of value loading.
-- [Ontological Value](/Value_Alignment/Ethics/Metaethics/Ethical_uncertainty/Metaethical_uncertainty_/Ontological_ethical_effects/Ontological_Value/Ontological_Value.md)
+- [Ontological Value](/Value_Alignment/Ethics/Metaethics/Ethical_uncertainty/Metaethical_uncertainty/Ontological_ethical_effects/Ontological_Value/Ontological_Value.md)

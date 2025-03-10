@@ -1,6 +1,6 @@
 ### Mini Description
 
-Holds that the appropriate action or act is that which produces the greatest possible good. 
+Holds that the appropriate action or act is that which produces the greatest possible good.
 
 ### Description
 

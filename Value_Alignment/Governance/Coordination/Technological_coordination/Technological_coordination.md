@@ -1,6 +1,6 @@
 ### Mini Description
 
- Technology itself shapes our reality and defines what is possible within the spaces  both virtual and real  that we inhabit.
+Technology itself shapes our reality and defines what is possible within the spaces  both virtual and real  that we inhabit.
 
 ### Description
 

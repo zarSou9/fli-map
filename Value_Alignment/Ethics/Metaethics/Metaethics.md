@@ -8,7 +8,7 @@ Metaethics can be viewed as the endeavor to know what normative framework to use
 
 This may be the most difficult form of ethics to develop in machines as it is the most abstract, but more technical research is needed on abstract concept representations in AI. If metaethics is instantiated or developed in AI then AI will not only be ethical decision makers, but also ethical reasoners as well. This would be a necessary but not sufficient condition for creating beneficial AGIs and thus represents one of the most crucial parts to long-term value alignment. Answering the question of what is good and valuable in the world and why? is an interdependently necessary part of value alignment and may be one of few things left to contemplate once intelligence is solved.
 
-Here are some important questions to consider here: What are the impacts of specific metaethical theories? How much would some position change our current paths on value alignment? How would it change technical AI research? What probabilities am I assigning to different metaethical theories? How does the interplay of uncertainty and potential impact of specific positions affect how we ought to proceed with value alignment? 
+Here are some important questions to consider here: What are the impacts of specific metaethical theories? How much would some position change our current paths on value alignment? How would it change technical AI research? What probabilities am I assigning to different metaethical theories? How does the interplay of uncertainty and potential impact of specific positions affect how we ought to proceed with value alignment?
 
 ### Related Nodes
 

@@ -1,6 +1,6 @@
 ### Mini Description
 
-Holds that actions which maximize utility, usually being happiness or wellbeing, are ethical and the proper course of action. 
+Holds that actions which maximize utility, usually being happiness or wellbeing, are ethical and the proper course of action.
 
 ### Description
 

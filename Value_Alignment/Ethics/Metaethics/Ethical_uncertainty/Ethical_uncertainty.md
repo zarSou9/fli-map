@@ -1,6 +1,6 @@
 ### Mini Description
 
-Attempts to address how to participate in and understand ethics given our incomplete analysis and information. 
+Attempts to address how to participate in and understand ethics given our incomplete analysis and information.
 
 ### Description
 

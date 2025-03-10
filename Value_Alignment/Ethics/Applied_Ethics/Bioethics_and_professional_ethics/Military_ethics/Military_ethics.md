@@ -1,6 +1,6 @@
 ### Mini Description
 
-Studies morality in war and conflict. 
+Studies morality in war and conflict.
 
 ### Description
 

@@ -1,6 +1,6 @@
 ### Mini Description
 
-Holds that in order to act morally one must be acting from duty and with the correct motivations, which are determined by Kants categorical imperative. The consequences of an action do not play a central role in this form of ethics. 
+Holds that in order to act morally one must be acting from duty and with the correct motivations, which are determined by Kants categorical imperative. The consequences of an action do not play a central role in this form of ethics.
 
 ### Description
 

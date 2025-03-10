@@ -1,6 +1,6 @@
 ### Mini Description
 
- studies how actions and decisions made today may have enormous implications for future persons and life itself. 
+studies how actions and decisions made today may have enormous implications for future persons and life itself.
 
 ### Description
 

@@ -1,6 +1,6 @@
 ### Mini Description
 
-Seeks to understand the appropriate use cases of and provide a commitment to different ethical theories that guide our behavior in daily life given our moral uncertainty. 
+Seeks to understand the appropriate use cases of and provide a commitment to different ethical theories that guide our behavior in daily life given our moral uncertainty.
 
 ### Description
 
