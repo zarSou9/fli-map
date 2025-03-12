@@ -14,7 +14,7 @@ jobs:
     steps:
       - name: Call update_map endpoint
         run: |
-          curl -X POST https://www.airesearchmaps.com/api/update_map \
+          curl -X POST https://api.trecursive.com/update_map \
           -H "Content-Type: application/json" \
           -H "API_KEY: ${{ secrets.UPDATE_MAP_KEY }}" \
           -d '{
