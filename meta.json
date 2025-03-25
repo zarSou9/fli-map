@@ -40,5 +40,11 @@
         }
       ]
     }
-  }
+  },
+  "dropdownLinks": [
+    {
+      "title": "Source Repo",
+      "url": "https://github.com/zarSou9/fli-map"
+    }
+  ]
 }
